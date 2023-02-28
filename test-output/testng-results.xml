@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="8" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-23T09:53:58 IST" name="Suite" finished-at="2023-02-23T09:53:58 IST" duration-ms="85">
+  <suite started-at="2023-02-27T10:13:21 IST" name="Suite" finished-at="2023-02-27T10:13:31 IST" duration-ms="10280">
     <groups>
     </groups>
-    <test started-at="2023-02-23T09:53:58 IST" name="Test" finished-at="2023-02-23T09:53:58 IST" duration-ms="85">
-      <class name="Day05.program04">
-        <test-method signature="testCase02()[pri:0, instance:Day05.program04@2145b572]" started-at="2023-02-23T09:53:58 IST" name="testCase02" finished-at="2023-02-23T09:53:58 IST" duration-ms="15" status="PASS">
+    <test started-at="2023-02-27T10:13:21 IST" name="Test" finished-at="2023-02-27T10:13:31 IST" duration-ms="10280">
+      <class name="Day06.program05">
+        <test-method signature="testcase(java.lang.String,java.lang.String)[pri:0, instance:Day06.program05@72f926e6]" started-at="2023-02-27T10:13:21 IST" name="testcase" finished-at="2023-02-27T10:13:31 IST" duration-ms="10222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test0123]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase02 -->
-        <test-method signature="testCase04()[pri:0, instance:Day05.program04@2145b572]" started-at="2023-02-23T09:53:58 IST" name="testCase04" finished-at="2023-02-23T09:53:58 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase04 -->
-      </class> <!-- Day05.program04 -->
-      <class name="Day05.program01">
-        <test-method signature="testCase01()[pri:0, instance:Day05.program01@291ae]" started-at="2023-02-23T09:53:58 IST" name="testCase01" finished-at="2023-02-23T09:53:58 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase01 -->
-        <test-method signature="testCase02()[pri:0, instance:Day05.program01@291ae]" started-at="2023-02-23T09:53:58 IST" name="testCase02" finished-at="2023-02-23T09:53:58 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase02 -->
-        <test-method signature="testCase04()[pri:0, instance:Day05.program01@291ae]" started-at="2023-02-23T09:53:58 IST" name="testCase04" finished-at="2023-02-23T09:53:58 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase04 -->
-      </class> <!-- Day05.program01 -->
+        </test-method> <!-- testcase -->
+      </class> <!-- Day06.program05 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
